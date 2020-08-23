@@ -1,0 +1,496 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sksg.com" resolutions="1x" timestamp="1598206879809">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master-copy.css" crc="4183604670" ref="facilities"/>
+    <file name="master_a-master.css" crc="3850002808" ref="to-parents:school-schedule:library:hostel:index:contact:achevements:bus-service:academic:gallery:upcoming-events"/>
+    <file name="to-parents.css" crc="3913864442" ref="to-parents"/>
+    <file name="school-schedule.css" crc="3889837984" ref="school-schedule"/>
+    <file name="library.css" crc="4018655971" ref="library"/>
+    <file name="hostel.css" crc="98299083" ref="hostel"/>
+    <file name="index.css" crc="137442615" ref="index"/>
+    <file name="facilities.css" crc="3886378830" ref="facilities"/>
+    <file name="contact.css" crc="4135346346" ref="contact"/>
+    <file name="achevements.css" crc="4214197702" ref="achevements"/>
+    <file name="bus-service.css" crc="352720532" ref="bus-service"/>
+    <file name="academic.css" crc="106849660" ref="academic"/>
+    <file name="gallery.css" crc="3892836108" ref="gallery"/>
+    <file name="upcoming-events.css" crc="280808808" ref="upcoming-events"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:academic:facilities:gallery:contact:school-schedule:upcoming-events:achevements:to-parents:bus-service:hostel:library"/>
+    <file name="museutils.js" crc="3939489907" ref="index:academic:facilities:gallery:contact:school-schedule:upcoming-events:achevements:to-parents:bus-service:hostel:library"/>
+    <file name="whatinput.js" crc="86476730" ref="index:academic:facilities:gallery:contact:school-schedule:upcoming-events:achevements:to-parents:bus-service:hostel:library"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:academic:facilities:gallery:contact:school-schedule:upcoming-events:achevements:to-parents:bus-service:hostel:library"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:academic:facilities:gallery:contact:school-schedule:upcoming-events:achevements:to-parents:bus-service:hostel:library"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:academic:facilities:achevements:bus-service:hostel:library"/>
+    <file name="webpro.js" crc="3856315280" ref="index:academic:gallery"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:academic:gallery"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:academic:gallery"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:academic:gallery"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:academic:facilities:gallery:contact:school-schedule:upcoming-events:achevements:to-parents:bus-service:hostel:library"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:academic:facilities:gallery:contact:school-schedule:upcoming-events:achevements:to-parents:bus-service:hostel:library"/>
+    <file name="require.js" crc="4177726516" ref="index:academic:facilities:gallery:contact:school-schedule:upcoming-events:achevements:to-parents:bus-service:hostel:library"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4067672046" ref="index"/>
+    <file name="pasted-svg-84x16.svg" crc="3903875926" seo="true" ref="index:academic:facilities:gallery:contact:school-schedule:upcoming-events:achevements:to-parents:bus-service:hostel:library">
+      <caption webpage="academic" alt=""/>
+      <caption webpage="academic" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="upcoming-events" alt=""/>
+      <caption webpage="upcoming-events" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="library" alt=""/>
+      <caption webpage="library" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="school-schedule" alt=""/>
+      <caption webpage="school-schedule" alt=""/>
+      <caption webpage="achevements" alt=""/>
+      <caption webpage="achevements" alt=""/>
+      <caption webpage="hostel" alt=""/>
+      <caption webpage="hostel" alt=""/>
+      <caption webpage="to-parents" alt=""/>
+      <caption webpage="to-parents" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="bus-service" alt=""/>
+      <caption webpage="bus-service" alt=""/>
+    </file>
+    <file name="pasted svg 84x16_poster_.png" crc="3989493317" ref="index"/>
+    <file name="saraswati.jpg" crc="3758534025" ref="index:facilities:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="u158-4.png" crc="4078958029" ref="index:academic:gallery:contact:school-schedule:upcoming-events:achevements:to-parents:bus-service:hostel:library"/>
+    <file name="f2.jpg" crc="78919160" ref="index:facilities">
+      <caption webpage="index" alt=""/>
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="f5.png" crc="243797233" ref="index:facilities">
+      <caption webpage="index" alt=""/>
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="f1.jpg" crc="3968565134" ref="index:facilities">
+      <caption webpage="index" alt=""/>
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="f6.jpg" crc="162227509" ref="index:academic:facilities">
+      <caption webpage="index" alt=""/>
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="f4.jpg" crc="509492783" ref="index:facilities">
+      <caption webpage="index" alt=""/>
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="728490-schools-031017.jpg" crc="3811300309" ref="index:facilities">
+      <caption webpage="index" alt=""/>
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="bording.jpg" crc="440734120" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:gallery"/>
+    <file name="flickr_photo_banerji_1.jpg" crc="3915712257" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scf.jpg" crc="415014718" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="school-india-rajasthan-11.jpg" crc="320695515" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:gallery"/>
+    <file name="teacher.jpg" crc="4108890538" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="draningchild.jpg" crc="210142349" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="football.jpg" crc="4183186573" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fram-u1006-fr.png" crc="33875446" ref="index"/>
+    <file name="man.jpg" crc="3980189366" seo="true" ref="index:academic:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="academic" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:academic:facilities:gallery:contact:school-schedule:upcoming-events:achevements:to-parents:bus-service:hostel:library">
+      <caption webpage="academic" alt=""/>
+      <caption webpage="academic" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="upcoming-events" alt=""/>
+      <caption webpage="upcoming-events" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="library" alt=""/>
+      <caption webpage="library" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="school-schedule" alt=""/>
+      <caption webpage="school-schedule" alt=""/>
+      <caption webpage="achevements" alt=""/>
+      <caption webpage="achevements" alt=""/>
+      <caption webpage="hostel" alt=""/>
+      <caption webpage="hostel" alt=""/>
+      <caption webpage="to-parents" alt=""/>
+      <caption webpage="to-parents" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="bus-service" alt=""/>
+      <caption webpage="bus-service" alt=""/>
+    </file>
+    <file name="books-u9409.png" crc="40629688" ref="academic"/>
+    <file name="xd4d1-u6894-a-fr.jpg" crc="156249191" ref="academic"/>
+    <file name="1456739_10206786718121243_6835884396497410156_n-u6895-a-fr.jpg" crc="3976411433" ref="academic"/>
+    <file name="sideimage1-u6896-a-fr.jpg" crc="4052484571" ref="academic"/>
+    <file name="xd4d3-u6935-a-fr.jpg" crc="3884976927" ref="academic"/>
+    <file name="xd4d4-u6941-a-fr.jpg" crc="213661099" ref="academic"/>
+    <file name="rah-u6947-a-fr.jpg" crc="75058414" ref="academic"/>
+    <file name="sss.jpg" crc="311537930" ref="academic">
+      <caption webpage="academic" alt=""/>
+    </file>
+    <file name="u3548-4.png" crc="4078958029" ref="facilities"/>
+    <file name="ts-u3593.png" crc="4008349419" ref="facilities"/>
+    <file name="scv.jpg" crc="149240208" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="tennis-sports-pastime-activities-hobbies-512.png" crc="203437916" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="hs.jpg" crc="3773955126" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="ls.jpg" crc="4176228373" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="painting-art-pastime-activities-hobbies-512.png" crc="57604992" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="sb.jpg" crc="4243932301" ref="facilities">
+      <caption webpage="facilities" alt=""/>
+    </file>
+    <file name="u3479-4.png" crc="4144630343" ref="gallery"/>
+    <file name="1stb.jpg" crc="3774078844" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="13041292_10207560507825502_3894736155137431675_o-crop-u2243.jpg" crc="230099937" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="13987455_10208407210392537_182584712428998929_o-crop-u2263.jpg" crc="4168344164" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ffff-crop-u2283.jpg" crc="4050399217" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sideimage1.jpg" crc="3769693525" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="waterheatersolar.jpg" crc="3848735142" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd4d4.jpg" crc="3879114169" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd4d5.jpg" crc="394637687" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="13041292_10207560507825502_3894736155137431675_o-crop-u2666.jpg" crc="4130571103" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="13987455_10208407210392537_182584712428998929_o-crop-u2686.jpg" crc="3794140921" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ffff-crop-u2706.jpg" crc="3948808229" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="2ndb.jpg" crc="4276672016" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="1456739_10206786718121243_6835884396497410156_n-crop-u2826.jpg" crc="4192539969" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="14484944_10208834563676102_8214311257059490519_n.jpg" crc="3961743204" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="backogallery-crop-u2866.jpg" crc="120077906" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="dx1.jpg" crc="34745340" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="dx5.jpg" crc="3764264941" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="face2web.jpg" crc="3798491942" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="face3web.jpg" crc="244934008" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="facesolar.jpg" crc="4045376914" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gardenlight.jpg" crc="238329348" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hv1.jpg" crc="4204342033" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hv2.jpg" crc="4000970008" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hvr1.jpg" crc="4115098243" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hvr2.jpg" crc="4095807086" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hvrr1-crop-u3086.jpg" crc="3796741543" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hvrr2-crop-u3106.jpg" crc="340912527" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="maplex-crop-u3146.jpg" crc="4290025328" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ongridsystem-crop-u3166.jpg" crc="288751546" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="rah764x420.jpg" crc="260010891" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="solar_16x9_2.jpg" crc="4226586370" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="solarpvsystem.jpg" crc="124487862" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="solarraj.jpg" crc="3913769351" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="solarwaterpump.jpg" crc="4239105178" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="streetlight-crop-u3286.jpg" crc="112083762" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd2.jpg" crc="3791683665" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd3.jpg" crc="4102682882" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd4.jpg" crc="4266142035" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd4d1.jpg" crc="158052857" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd4d2.jpg" crc="65841630" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd4d3.jpg" crc="3815997137" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="1stb-crop-u2093.jpg" crc="207210204" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd4d4-crop-u2349.jpg" crc="497727204" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sideimage1-crop-u2732.jpg" crc="175050083" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="14484944_10208834563676102_8214311257059490519_n-crop-u2852.jpg" crc="71123493" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="facesolar-crop-u2972.jpg" crc="432781453" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hvrr1-crop-u3092.jpg" crc="3785040241" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="solar_16x9_2-crop-u3212.jpg" crc="4142296829" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd3-crop-u3332.jpg" crc="416652244" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="13041292_10207560507825502_3894736155137431675_o-crop-u2249.jpg" crc="445384026" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd4d5-crop-u2369.jpg" crc="330295684" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="waterheatersolar-crop-u2752.jpg" crc="3987928501" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="backogallery-crop-u2872.jpg" crc="14845228" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gardenlight-crop-u2992.jpg" crc="57761757" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hvrr2-crop-u3112.jpg" crc="4225488879" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="solarpvsystem-crop-u3232.jpg" crc="453443032" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd4-crop-u3352.jpg" crc="4070581904" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="13987455_10208407210392537_182584712428998929_o-crop-u2269.jpg" crc="3885519597" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="1stb-crop-u2652.jpg" crc="207210204" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd4d4-crop-u2772.jpg" crc="497727204" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="dx1-crop-u2892.jpg" crc="240571463" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hv1-crop-u3012.jpg" crc="331688079" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="man-crop-u3132.jpg" crc="4036398366" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="solarraj-crop-u3252.jpg" crc="77419859" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd4d1-crop-u3372.jpg" crc="4255123276" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ffff-crop-u2289.jpg" crc="97107652" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="13041292_10207560507825502_3894736155137431675_o-crop-u2672.jpg" crc="445384026" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd4d5-crop-u2792.jpg" crc="330295684" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="dx5-crop-u2912.jpg" crc="4173144298" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hv2-crop-u3032.jpg" crc="3846197093" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="maplex-crop-u3152.jpg" crc="382492692" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="solarwaterpump-crop-u3272.jpg" crc="3896009213" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd4d2-crop-u3392.jpg" crc="4051670328" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="sideimage1-crop-u2309.jpg" crc="175050083" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="13987455_10208407210392537_182584712428998929_o-crop-u2692.jpg" crc="3885519597" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="2ndb-crop-u2812.jpg" crc="454613267" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="face2web-crop-u2932.jpg" crc="3780172210" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hvr1-crop-u3052.jpg" crc="3963559429" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ongridsystem-crop-u3172.jpg" crc="192750530" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="streetlight-crop-u3292.jpg" crc="4235782363" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd4d3-crop-u3412.jpg" crc="3881739661" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="waterheatersolar-crop-u2329.jpg" crc="3987928501" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="ffff-crop-u2712.jpg" crc="97107652" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="1456739_10206786718121243_6835884396497410156_n-crop-u2832.jpg" crc="3847197882" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="face3web-crop-u2952.jpg" crc="375131693" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="hvr2-crop-u3072.jpg" crc="4260489268" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="rah-crop-u3192.jpg" crc="224160395" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="xd2-crop-u3312.jpg" crc="247379206" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="u1922-4.png" crc="3798638978" ref="contact"/>
+    <file name="u1980-21.png" crc="4286841067" ref="contact"/>
+    <file name="bs.jpg" crc="477964581" ref="achevements">
+      <caption webpage="achevements" alt=""/>
+    </file>
+    <file name="gg.jpg" crc="493213240" ref="achevements">
+      <caption webpage="achevements" alt=""/>
+    </file>
+    <file name="gg1.jpg" crc="4022283090" ref="achevements">
+      <caption webpage="achevements" alt=""/>
+    </file>
+    <file name="u7681-4.png" crc="184950510" ref="to-parents"/>
+    <file name="new-school-bus.jpg" crc="4223010605" ref="bus-service">
+      <caption webpage="bus-service" alt=""/>
+    </file>
+    <file name="slee.jpg" crc="73094609" ref="hostel">
+      <caption webpage="hostel" alt=""/>
+    </file>
+    <file name="playground-3.jpg" crc="3902756946" ref="hostel">
+      <caption webpage="hostel" alt=""/>
+    </file>
+    <file name="meal.jpg" crc="3943669842" ref="hostel">
+      <caption webpage="hostel" alt=""/>
+    </file>
+    <file name="school-library-portraits-2-16x9.jpg" crc="461480700" ref="library">
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="1.jpg" crc="126088788" ref="library">
+      <caption webpage="library" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="54614806" seo="true" mt="1598206203591" redirect="true"/>
+  <file name="academic.html" crc="4170583440" seo="true" mt="1598206203661" redirect="true"/>
+  <file name="facilities.html" crc="4247315763" seo="true" mt="1598206203573" redirect="true"/>
+  <file name="gallery.html" crc="411841027" seo="true" mt="1598206203583" redirect="true"/>
+  <file name="contact.html" crc="259988678" seo="true" mt="1598206203603" redirect="true"/>
+  <file name="school-schedule.html" crc="277578829" seo="true" mt="1598206203560" redirect="true"/>
+  <file name="upcoming-events.html" crc="36251766" seo="true" mt="1598206203669" redirect="true"/>
+  <file name="achevements.html" crc="3968932439" seo="true" mt="1598206203707" redirect="true"/>
+  <file name="to-parents.html" crc="363612944" seo="true" mt="1598206203699" redirect="true"/>
+  <file name="bus-service.html" crc="4248443081" seo="true" mt="1598206203717" redirect="true"/>
+  <file name="hostel.html" crc="4179778959" seo="true" mt="1598206203727" redirect="true"/>
+  <file name="library.html" crc="4234919989" seo="true" mt="1598206203736" redirect="true"/>
+</manifest>
